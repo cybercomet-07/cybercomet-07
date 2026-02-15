@@ -1,4 +1,4 @@
-# cybercomet-07-cybercomet-07
+# cybercomet-07
 
 <!-- Dynamic Welcome Text -->
 <h1 align="center">
@@ -13,16 +13,11 @@
 
 I'm a passionate **B.Tech Computer Science Engineering Student (2024–2028)** at MIT College of Engineering.
 
-💡 Strong foundation in **Artificial Intelligence, Full Stack Development & Software Engineering**  
-🚀 4x Hackathon Finalist  
-🏆 SIH Internal Round Qualified  
-🤖 Former AI Intern (IIT Kanpur – AutoInsight AI & Loan Prediction)  
-💻 Daily Competitive Programmer (CodeChef & LeetCode)  
-
-🌱 Currently building intelligent real-world systems like:
-- Smart Civic Issue Reporter & Tracker  
-- NEXUS AI (Jarvis-like AI Assistant)  
-- AI Portfolio Manager (Automated Trading Bot)  
+💡 Strong foundation in **Python, JavaScript, Web Development & Artificial Intelligence**  
+💻 Skilled in **Frontend & Backend Development**  
+🧠 Interested in **Machine Learning & AI-driven systems**  
+🚀 Passionate about building scalable and intelligent applications  
+🌱 Continuously learning and exploring new technologies in **Web Development, AI & Software Engineering**
 
 📩 Reach me at: **parthkulkarni0007@gmail.com**  
 📍 Sambhajinagar, Maharashtra, India  
@@ -33,96 +28,52 @@ I'm a passionate **B.Tech Computer Science Engineering Student (2024–2028)** a
 
 <p align="center">
 
-  <!-- Languages -->
+  <!-- Python -->
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
-  
+
+  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
-  
-  <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  </a>
-  
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  </a>
 
-  <!-- Frontend -->
+  <!-- React -->
   <a href="https://react.dev/">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
 
-  <!-- Backend -->
+  <!-- Flask -->
   <a href="https://flask.palletsprojects.com/">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   </a>
 
+  <!-- Node.js -->
   <a href="https://nodejs.org/">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   </a>
 
-  <!-- Database / Backend Services -->
+  <!-- Firebase -->
   <a href="https://firebase.google.com/">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   </a>
 
-  <!-- AI / ML -->
+  <!-- SQL -->
+  <a href="https://en.wikipedia.org/wiki/SQL">
+    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
+
+  <!-- Machine Learning -->
   <a href="https://en.wikipedia.org/wiki/Machine_learning">
-    <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=ai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
   </a>
 
-  <!-- Tools -->
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
-
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <!-- Artificial Intelligence -->
+  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">
+    <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge" />
   </a>
 
 </p>
-
----
-
-## 🚀 Featured Projects  
-
-### 🤖 NEXUS AI  
-A smart AI assistant inspired by JARVIS  
-- Voice + Text interaction  
-- LLM-based architecture  
-- Responsive futuristic UI  
-- AI-driven reasoning system  
-
----
-
-### 📈 AI Portfolio Manager  
-Automated trading bot using real-time market data  
-- RSI, MACD, Moving Averages  
-- Alpaca API integration  
-- WhatsApp alerts  
-- Paper trading deployment  
-
----
-
-### 🏙️ Smart Civic Issue Reporter & Tracker  
-Full-stack civic-tech solution  
-- Real-time reporting  
-- Firebase backend  
-- Role-based dashboards  
-- Social auto-posting for unresolved issues  
-
----
-
-## 🏆 Achievements  
-
-🥇 4x Hackathon Finalist  
-🥇 SIH Internal Round  
-🥈 2nd Place – Inter-College Photography Competition  
-💻 Daily CodeChef & LeetCode Contributions  
-🤝 Open Source Contributor  
 
 ---
 
@@ -138,6 +89,10 @@ Full-stack civic-tech solution
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
+  <a href="https://www.instagram.com/vznknown?utm_source=qr&igsh=MWJiZTg3ejZ0aDAydg==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
 </p>
 
 ---
@@ -149,5 +104,5 @@ Full-stack civic-tech solution
 ---
 
 <h3 align="center">
-  ⚡ Build. Break. Learn. Repeat.
+  ⚡ Build. Learn. Innovate.
 </h3>
