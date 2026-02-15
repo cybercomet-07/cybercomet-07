@@ -11,16 +11,17 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **B.Tech Computer Science Engineering Student (2024–2028)** at MIT College of Engineering.
+I'm a passionate **B.Tech Computer Science Student with strong foundation in Frontend/Backend and Agentic AI 
+My expertise include 
 
-💡 Strong foundation in **Python, JavaScript, Web Development & Artificial Intelligence**  
-💻 Skilled in **Frontend & Backend Development**  
+💡 Strong foundation in **Python, JavaScript, Web Development, Software & Artificial Intelligence**  
+🗄️ Database design and management**
 🧠 Interested in **Machine Learning & AI-driven systems**  
 🚀 Passionate about building scalable and intelligent applications  
-🌱 Continuously learning and exploring new technologies in **Web Development, AI & Software Engineering**
-
+🌱 Continuously learning and exploring new technologies in **Web Development, AI & Software**
+🎓 Currently pursuing a degree in Computer Science**
 📩 Reach me at: **parthkulkarni0007@gmail.com**  
-📍 Sambhajinagar, Maharashtra, India  
+
 
 ---
 
