@@ -16,6 +16,7 @@ My expertise include
 
 💡 Strong foundation in **Python, JavaScript, Web Development, Software & Artificial Intelligence**  
 🗄️ Database design and management**
+
 🧠 Interested in **Machine Learning & AI-driven systems**  
 🚀 Passionate about building scalable and intelligent applications  
 🌱 Continuously learning and exploring new technologies in **Web Development, AI & Software**
