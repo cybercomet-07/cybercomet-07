@@ -3,7 +3,7 @@
 <!-- Dynamic Welcome Text -->
 <h1 align="center">
   <marquee behavior="alternate" direction="left" scrollamount="6">
-    🚀 Hey, I'm Parth Kulkarni!
+    🚀 Hey, I'm Parth!
   </marquee>
 </h1>
 
