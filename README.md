@@ -7,15 +7,8 @@
 
 <div align="center">
 
-<!-- Animated ASCII Art Intro -->
-```
- ██████╗██╗   ██╗██████╗ ███████╗██████╗  ██████╗ ███╗   ███╗███████╗████████╗
-██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝ ████╗ ████║██╔════╝╚══██╔══╝
-██║  ███╗╚████╔╝ ██████╔╝█████╗  ██████╔╝██║  ███╗██╔████╔██║█████╗     ██║   
-██║   ██║ ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██║   ██║██║╚██╔╝██║██╔══╝     ██║   
-╚██████╔╝  ██║   ██████╔╝███████╗██║  ██║╚██████╔╝██║ ╚═╝ ██║███████╗   ██║   
- ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝   ╚═╝   
-```
+<!-- CYBERCOMET Banner - Renders perfectly on GitHub -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:005F1F&height=200&section=header&text=CYBERCOMET&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Parth%20Kulkarni%20%7C%20@cybercomet-07&descAlignY=58&descSize=20" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+my+Digital+Space+%F0%9F%8C%90;I'm+Parth+aka+cybercomet-07;Full+Stack+%7C+AI%2FML+%7C+Open+Source+%F0%9F%9A%80" alt="Typing Animation" />
 
@@ -136,16 +129,12 @@
 <div align="center">
 
 ### Heavy Coding Statistics
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=cybercomet-07&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=00FF41" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybercomet-07&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&text_color=58A6FF&langs_count=8" width="49%" />
-</p>
-
-### Contribution & Activity
 
 ```
 📊 PARTH KULKARNI'S CODING METRICS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔥 HEAVY CODING STATS 🔥
 
 ⭐ Total Stars Earned:           1
 🔄 Total Commits (last year):    236
@@ -154,8 +143,28 @@
 🤝 Contributed (last year):      2
 📦 Total Repositories:           16
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+LANGUAGES EXPERTISE:
+
+🔸 Python                        42.50%
+🔵 JavaScript                    26.20%
+🟡 TypeScript                     8.96%
+🔷 Jupyter Notebook               7.81%
+🟢 CSS                            2.03%
+🔴 C++                            1.05%
+⚫ CMake                           0.80%
+🟪 Dart                          10.65%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔥 AND MANY MORE COMING IN THE UPCOMING YEAR!
 ```
+
+### GitHub Stats Visualization
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=cybercomet-07&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=00FF41" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybercomet-07&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&text_color=58A6FF&langs_count=8" width="49%" />
+</p>
 
 ### Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cybercomet-07&theme=synthwave&hide_border=true&area=true&point=00FF41&line=FF006E&color=FFBE0B" width="100%" />
