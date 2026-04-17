@@ -166,13 +166,6 @@ LANGUAGES EXPERTISE:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybercomet-07&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&text_color=58A6FF&langs_count=8" width="49%" />
 </p>
 
-### Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cybercomet-07&theme=synthwave&hide_border=true&area=true&point=00FF41&line=FF006E&color=FFBE0B" width="100%" />
-
-</div>
-
----
-
 ## 🎯 Featured Projects
 
 ### 🏆 Project Showcase
