@@ -9,12 +9,12 @@
 
 <!-- Animated ASCII Art Intro -->
 ```
- ██████╗ ██╗   ██╗██████╗ ███████╗██████╗  ██████╗ ███╗   ███╗███████╗████████╗
-██╔════╝ ╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝ ████╗ ████║██╔════╝╚══██╔══╝
-██║  ███╗ ╚████╔╝ ██████╔╝█████╗  ██████╔╝██║  ███╗██╔████╔██║█████╗     ██║   
-██║   ██║  ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██║   ██║██║╚██╔╝██║██╔══╝     ██║   
-╚██████╔╝   ██║   ██████╔╝███████╗██║  ██║╚██████╔╝██║ ╚═╝ ██║███████╗   ██║   
- ╚═════╝    ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝   ╚═╝   
+ ██████╗██╗   ██╗██████╗ ███████╗██████╗  ██████╗ ███╗   ███╗███████╗████████╗
+██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝ ████╗ ████║██╔════╝╚══██╔══╝
+██║  ███╗╚████╔╝ ██████╔╝█████╗  ██████╔╝██║  ███╗██╔████╔██║█████╗     ██║   
+██║   ██║ ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██║   ██║██║╚██╔╝██║██╔══╝     ██║   
+╚██████╔╝  ██║   ██████╔╝███████╗██║  ██║╚██████╔╝██║ ╚═╝ ██║███████╗   ██║   
+ ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝   ╚═╝   
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+my+Digital+Space+%F0%9F%8C%90;I'm+Parth+aka+cybercomet-07;Full+Stack+%7C+AI%2FML+%7C+Open+Source+%F0%9F%9A%80" alt="Typing Animation" />
@@ -131,6 +131,39 @@
 
 ---
 
+## 📈 Stats & Achievements
+
+<div align="center">
+
+### Heavy Coding Statistics
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=cybercomet-07&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=00FF41" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybercomet-07&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&text_color=58A6FF&langs_count=8" width="49%" />
+</p>
+
+### Contribution & Activity
+
+```
+📊 PARTH KULKARNI'S CODING METRICS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Total Stars Earned:           1
+🔄 Total Commits (last year):    236
+🔀 Total PRs:                    5
+📋 Total Issues:                 0
+🤝 Contributed (last year):      2
+📦 Total Repositories:           16
+
+🔥 AND MANY MORE COMING IN THE UPCOMING YEAR!
+```
+
+### Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cybercomet-07&theme=synthwave&hide_border=true&area=true&point=00FF41&line=FF006E&color=FFBE0B" width="100%" />
+
+</div>
+
+---
+
 ## 🎯 Featured Projects
 
 ### 🏆 Project Showcase
@@ -152,9 +185,8 @@
 - 🔐 End-to-end encryption
 - 📱 Responsive mobile design
 
-**Impact:** 
-- Processes 1000+ emails efficiently
-- 95%+ spam detection accuracy
+**Purpose & Why I Built It:**
+*[To be filled - Tell us why you created this project]*
 
 🔗 [GitHub Repo](https://github.com/cybercomet-07/InBoxIQ) | [Backend](https://github.com/cybercomet-07/InBoxIQ-Backend)
 
@@ -174,10 +206,8 @@
 - 🎯 Multi-card management
 - 📊 Spending analytics
 
-**Impact:**
-- Secure 10,000+ user accounts
-- Zero security breaches
-- 99.9% uptime
+**Purpose & Why I Built It:**
+*[To be filled - Tell us why you created this project]*
 
 🔗 [GitHub Repo](https://github.com/cybercomet-07/CardVault)
 
@@ -200,9 +230,8 @@
 - 📈 Progress tracking
 - 🎓 Mentorship connections
 
-**Impact:**
-- Helped 500+ students choose careers
-- 88% placement rate improvement
+**Purpose & Why I Built It:**
+*[To be filled - Tell us why you created this project]*
 
 🔗 [GitHub Repo](https://github.com/cybercomet-07/YUGPATH)
 
@@ -222,9 +251,8 @@
 - 📊 Real-time data processing
 - 💾 Encrypted data storage
 
-**Impact:**
-- Handles 100K+ transactions/day
-- Sub-100ms response time
+**Purpose & Why I Built It:**
+*[To be filled - Tell us why you created this project]*
 
 🔗 [GitHub Repo](https://github.com/cybercomet-07/setu-backend)
 
@@ -247,9 +275,8 @@
 - 📍 Speaker tracking
 - 🔔 Real-time notifications
 
-**Impact:**
-- Managed 1000+ attendees
-- Seamless event coordination
+**Purpose & Why I Built It:**
+*[To be filled - Tell us why you created this project]*
 
 🔗 [GitHub Repo](https://github.com/cybercomet-07/IEEE-2025)
 
@@ -276,23 +303,6 @@ All open source & actively maintained!
 </td>
 </tr>
 </table>
-
----
-
-## 📈 Stats & Achievements
-
-<div align="center">
-
-### GitHub Analytics
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=cybercomet-07&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=00FF41" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybercomet-07&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&text_color=58A6FF&langs_count=8" width="49%" />
-</p>
-
-### Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cybercomet-07&theme=synthwave&hide_border=true&area=true&point=00FF41&line=FF006E&color=FFBE0B" width="100%" />
-
-</div>
 
 ---
 
