@@ -130,35 +130,44 @@
 
 ### Heavy Coding Statistics
 
-```
-📊 PARTH KULKARNI'S CODING METRICS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<table>
+<tr>
+<td width="50%" valign="top">
 
+```
 🔥 HEAVY CODING STATS 🔥
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-⭐ Total Stars Earned:           1
-🔄 Total Commits (last year):    236
-🔀 Total PRs:                    5
-📋 Total Issues:                 0
-🤝 Contributed (last year):      2
-📦 Total Repositories:           16
+⭐ Stars Earned:          1
+🔄 Commits (last year):   236
+🔀 Total PRs:             5
+📋 Total Issues:          0
+🤝 Contributed:           2
+📦 Repositories:          16
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-LANGUAGES EXPERTISE:
-
-🔸 Python                        42.50%
-🔵 JavaScript                    26.20%
-🟡 TypeScript                     8.96%
-🔷 Jupyter Notebook               7.81%
-🟢 CSS                            2.03%
-🔴 C++                            1.05%
-⚫ CMake                           0.80%
-🟪 Dart                          10.65%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔥 AND MANY MORE COMING IN THE UPCOMING YEAR!
+🔥 MORE COMING IN 2026!
 ```
+
+</td>
+<td width="50%" valign="top">
+
+```
+💻 LANGUAGES EXPERTISE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔸 Python          42.50%
+🔵 JavaScript      26.20%
+🟪 Dart            10.65%
+🟡 TypeScript       8.96%
+🔷 Jupyter          7.81%
+🟢 CSS              2.03%
+🔴 C++              1.05%
+⚫ CMake             0.80%
+```
+
+</td>
+</tr>
+</table>
 
 ### GitHub Stats Visualization
 <p>
