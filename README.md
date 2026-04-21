@@ -166,6 +166,16 @@
 ```
 
 
+</td>
+</tr>
+</table>
+
+### GitHub Stats Visualization
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=cybercomet-07&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=00FF41" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybercomet-07&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&text_color=58A6FF&langs_count=8" width="49%" />
+</p>
+
 ## 🎯 Featured Projects
 
 ### 🏆 Project Showcase
