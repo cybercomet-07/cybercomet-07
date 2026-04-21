@@ -330,7 +330,7 @@ All open source & actively maintained!
 - 📊 **Data Engineering** - ETL pipelines and data lakes
 
 ### Learning Resources:
-📚 LeetCode | 🎓 Coursera | 🔍 Research Papers | 💻 Open Source Contributions | 🎬 YouTube Tutorials
+📚 LeetCode | 🎓 Coursera | 🔍 Research Papers | 💻 Open Source Contributions | 🎬 Vibe Coding
 
 ---
 
